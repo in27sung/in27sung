@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Insung<p align="right"> <img src="https://komarev.com/ghpvc/?username=in27sung&label=Profile%20views&color=e31b1b&style=plastic" alt="in27sung" /> </p></h1>
+# Hi 👋, I'm Insung <img align="right" src="https://komarev.com/ghpvc/?username=in27sung&label=Profile%20views&color=e31b1b&style=plastic" alt="in27sung" />
+
 
 <h3 align="left">A passionate Fullstack developer from South Korea </h3> 
 
@@ -10,11 +11,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/insung-hwang-104969244" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="in27sung" height="30" width="40" /></a>
-<a href="https://instagram.com/in95sung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="in27sung" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1076007346444181574" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="in27sung" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/insung-hwang-104969244" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" height="30" width="40" /></a>
+<a href="https://instagram.com/in95sung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="istagram logo" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1076007346444181574" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" height="30" width="40" /></a>
+<a href="in27sung@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40"  alt="gmail logo" /></a>
 </p>
 
+
+
+
+## Skills
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
