@@ -7,14 +7,12 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 📫 How to reach me **in27sung@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/insung-hwang-104969244" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" height="30" width="40" /></a>
 <a href="https://instagram.com/in95sung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="istagram logo" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1076007346444181574" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" height="30" width="40" /></a>
-<a href="in27sung@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40"  alt="gmail logo" /></a>
+<a href="mailto:in27sung@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40"  alt="gmail logo" /></a>
 </p>
 
 
