@@ -3,9 +3,9 @@
 
 <h3 align="left">A passionate Fullstack developer from South Korea </h3> 
 
-- 🔭 I’m currently working on <a href="http://c7d2408t1p1.itwillbs.com/" target="_blank">**stock mate**</a>
+- 🔭 I’m currently working on **[stock mate](http://c7d2408t1p1.itwillbs.com/)**
 
-- 🌱 I’m currently learning **AI**, <a href="https://learn.nvidia.com/certificates?id=a2a7fa44d5e5409aa3d8a90b729fda16" target="_blank">**Deep learning**</a>
+- 🌱 I’m currently learning **AI**, **[Deep learning(https://learn.nvidia.com/certificates?id=a2a7fa44d5e5409aa3d8a90b729fda16)**
 
 
 - 🧑🏻‍💻 I'm currenty looking for a Job
