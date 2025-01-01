@@ -3,7 +3,7 @@
 
 <h3 align="left">A passionate Fullstack developer from South Korea </h3> 
 
-- 🔭 I’m currently working on **[stock mate](https://c7d2408t1p1.itwillbs.com/)**
+- 🔭 I’m currently working on **[stock mate](http://c7d2408t1p1.itwillbs.com/)**
 
 - 🌱 I’m currently learning **AI**, **[Deep learning](https://learn.nvidia.com/certificates?id=a2a7fa44d5e5409aa3d8a90b729fda16)**
 
