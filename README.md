@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[stock mate](http://c7d2408t1p1.itwillbs.com/)**
 
-- 🌱 I’m currently learning **[Spring](HTTP://https://github.com/in27sung/spring)**, **AI**, **[Deep learning](https://learn.nvidia.com/certificates?id=a2a7fa44d5e5409aa3d8a90b729fda16)**
+- 🌱 I’m currently learning **[Spring](https://github.com/in27sung/spring)**, **AI**, **[Deep learning](https://learn.nvidia.com/certificates?id=a2a7fa44d5e5409aa3d8a90b729fda16)**
 
 
 - 🧑🏻‍💻 I'm currenty looking for a Job
