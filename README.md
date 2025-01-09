@@ -57,4 +57,4 @@
 <p></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=in27sung&show_icons=true&locale=en" width="480" alt="in27sung"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=in27sung&theme=default" alt="in27sung" width="480" height=""/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=in27sung&theme=default" alt="in27sung" width="480"/></p>
