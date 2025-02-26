@@ -1,7 +1,7 @@
 # Hi 👋, I'm Insung <img align="right" src="https://komarev.com/ghpvc/?username=in27sung&label=Profile%20views&color=e31b1b&style=plastic" alt="in27sung" />
 
 
-<h3 align="left">A passionate Fullstack developer from South Korea </h3> 
+<h3 align="left">A passionate Analytic developer from South Korea </h3> 
 
 - 🔭 I’m currently working on **[stock mate](http://c7d2408t1p1.itwillbs.com/)**
 
