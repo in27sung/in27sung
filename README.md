@@ -59,7 +59,10 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
+
 
 ## Github stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=in27sung&show_icons=true&locale=en" width="480" alt="in27sung"/>
