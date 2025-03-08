@@ -44,7 +44,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<img align="center" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmMHpU%2FbtsDxLXpqlY%2FIUikfxyNVo3YXbl2K5QndK%2Fimg.png" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
