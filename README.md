@@ -3,9 +3,9 @@
 
 <h3 align="left">A passionate Analytic developer from South Korea </h3> 
 
-- 🔭 I’m currently working on **[stock mate](http://c7d2408t1p1.itwillbs.com/)**
+- 🔭 I’m currently working on **[World Happiness](https://in27sung.github.io/project/2025/03/27/world-happiness.html)**
 
-- 🌱 I’m currently learning **[Spring](https://github.com/in27sung/spring)**, **[Deep learning](https://learn.nvidia.com/certificates?id=a2a7fa44d5e5409aa3d8a90b729fda16)**, **Python**
+- 🌱 I’m currently learning **[Data Science](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)**, **[Pandas](https://pandas.pydata.org/docs/index.html)**
 
 
 - 🧑🏻‍💻 I'm currenty looking for a Job
