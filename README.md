@@ -1,36 +1,42 @@
 # Insung Hwang
-**Data Scientist at Ingkle**
+**Data Scientist · Manufacturing Analytics · Applied Machine Learning**
 
-Manufacturing data → Reproducible experiments → Practical ML applications
+I turn complex data into clear insights and testable models.
+My focus is on manufacturing data, reproducible experiments,
+and practical tools that connect analysis to decisions.
 
-I analyze manufacturing data, develop and validate models,
-and turn results into tools people can use.
+### Currently Building · [SONAR](https://github.com/ingkle/sonar)
 
-### Currently Building · SONAR
-
-A manufacturing data science workspace for analysis,
-ML experiments, and interactive customer applications.
+A data science workspace I'm developing to connect
+data exploration, model validation, and interactive applications.
 
 **Process Monitoring · Tool-Life Prediction · Anomaly Detection**
-
-My focus: data quality, feature engineering, model validation,
-and traceable experiments.
 
 ### Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,jupyter,git&theme=light" alt="Python, MySQL, scikit-learn, Jupyter, Git" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn&theme=light" alt="Python, MySQL, scikit-learn" height="48" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" height="48" />
 </p>
 
 **Python · SQL · pandas · scikit-learn · Jupyter · Git**
 
-Extending my workflow with **MLflow**, experiment tracking,
-and model artifact management.
+### My Approach
+
+- Understand the process before choosing the model.
+- Validate data, prevent leakage, and make uncertainty explicit.
+- Keep experiments reproducible and results understandable.
+
+**Exploring:** MLflow, experiment tracking, and model monitoring.
 
 ### Selected Analysis
 
 [World Happiness](https://in27sung.github.io/project/2025/03/27/world-happiness.html)
-— Data preparation, exploratory analysis, and regression modeling.
+— Exploring socioeconomic data through preprocessing,
+visualization, and regression modeling.
 
 ---
 
