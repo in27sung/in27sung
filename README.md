@@ -39,19 +39,22 @@ data exploration, model validation, and interactive applications.
 visualization, and regression modeling.
 
 ---
-
 <h3>Connect</h3>
 
 <p>
   <a href="https://in27sung.github.io/">
     <img src="https://img.shields.io/badge/Blog-Data%20Explorer-163753?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog — Data Explorer" height="32" />
   </a>
-  &nbsp;
+</p>
+
+<br />
+
+<p>
   <a href="https://www.linkedin.com/in/insung-hwang-104969244/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" width="36" height="36" align="center" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" width="36" height="36" />
   </a>
   &nbsp;
   <a href="mailto:in27sung@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" title="Email" width="36" height="36" align="center" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" title="Email" width="36" height="36" />
   </a>
 </p>
