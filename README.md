@@ -1,48 +1,38 @@
-# Hi, I'm Insung 👋
+# Insung Hwang
+**Data Scientist at Ingkle**
 
-**Data Scientist at Ingkle · Manufacturing Data & Applied Machine Learning**
+Manufacturing data → Reproducible experiments → Practical ML applications
 
-I work with manufacturing data to understand process behavior,
-evaluate machine learning approaches, and turn analysis into
-reproducible experiments and practical prototypes.
+I analyze manufacturing data, develop and validate models,
+and turn results into tools people can use.
 
-My focus is on asking the right questions, understanding data
-limitations, and validating what a model can—and cannot—tell us.
+### Currently Building · SONAR
 
-## What I Work On
+A manufacturing data science workspace for analysis,
+ML experiments, and interactive customer applications.
 
-- **Manufacturing analytics** — exploring process and equipment data,
-  identifying patterns, and assessing data quality.
-- **Applied machine learning** — feature engineering, predictive
-  modeling, anomaly detection, and model evaluation.
-- **Reproducible experimentation** — preserving data provenance,
-  documenting assumptions, and tracking experiments and model artifacts.
-- **Decision-focused communication** — making analytical results
-  understandable through clear visualizations and interactive prototypes.
+**Process Monitoring · Tool-Life Prediction · Anomaly Detection**
 
-## Toolkit
+My focus: data quality, feature engineering, model validation,
+and traceable experiments.
 
-- **Analysis & modeling:** Python, SQL, pandas, scikit-learn
-- **Exploration & reproducibility:** Jupyter, Git
-- **Currently exploring:** MLflow, model lifecycle management,
-  and monitoring for manufacturing applications
+### Core Stack
 
-## Selected Work
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,jupyter,git&theme=light" alt="Python, MySQL, scikit-learn, Jupyter, Git" />
+</p>
 
-### [World Happiness Analysis](https://in27sung.github.io/project/2025/03/27/world-happiness.html)
+**Python · SQL · pandas · scikit-learn · Jupyter · Git**
 
-An exploratory analysis and regression project using country-level
-social and economic indicators. The write-up covers data preparation,
-missing-value handling, model comparison, and interpretation.
+Extending my workflow with **MLflow**, experiment tracking,
+and model artifact management.
 
-## How I Approach Data Science
+### Selected Analysis
 
-- Start with the problem and the available evidence.
-- Treat data quality and validation as part of modeling.
-- Keep observed values, predictions, and assumptions distinct.
-- Make experiments reproducible and limitations explicit.
+[World Happiness](https://in27sung.github.io/project/2025/03/27/world-happiness.html)
+— Data preparation, exploratory analysis, and regression modeling.
 
-## Connect
+---
 
 [Blog](https://in27sung.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/insung-hwang-104969244/) ·
